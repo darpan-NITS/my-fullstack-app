@@ -1,10 +1,9 @@
-import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 
 export default function Dashboard({ setToken }) {
   const user = JSON.parse(localStorage.getItem('user'));
   const navigate = useNavigate();
-  const [hoveredCard, setHoveredCard] = useState(null);
+  
 
   const logout = () => {
     localStorage.clear();
@@ -415,8 +414,7 @@ export default function Dashboard({ setToken }) {
               <div
                 className="info-card"
                 key={i}
-                onMouseEnter={() => setHoveredCard(i)}
-                onMouseLeave={() => setHoveredCard(null)}
+                
               >
                 <span className="card-icon">{stat.icon}</span>
                 <div className="card-value" style={{ color: stat.color }}>{stat.value}</div>
