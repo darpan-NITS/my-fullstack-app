@@ -9,13 +9,11 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-
 ## 🔗 Live Demo
 
-- **Frontend:** [your-frontend.vercel.app]([[https://your-frontend.vercel.app](https://my-fullstack-app-g5av.vercel.app/login)](https://my-fullstack-app-g5av.vercel.app/login))
-- **Backend API:** [your-backend.vercel.app]([[https://your-backend.vercel.app](https://my-fullstack-app-kappa.vercel.app/)](https://my-fullstack-app-kappa.vercel.app/))
+- **Frontend:** [my-fullstack-app-g5av.vercel.app](https://my-fullstack-app-g5av.vercel.app/login)
+- **Backend API:** [my-fullstack-app-kappa.vercel.app](https://my-fullstack-app-kappa.vercel.app/)
 - **GitHub Repo:** [github.com/darpan-NITS/my-fullstack-app](https://github.com/darpan-NITS/my-fullstack-app)
-
 ---
 
 ## 📌 Project Overview
