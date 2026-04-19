@@ -12,8 +12,8 @@
 
 ## 🔗 Live Demo
 
-- **Frontend:** [your-frontend.vercel.app]([https://your-frontend.vercel.app](https://my-fullstack-app-g5av.vercel.app/login))
-- **Backend API:** [your-backend.vercel.app]([https://your-backend.vercel.app](https://my-fullstack-app-kappa.vercel.app/))
+- **Frontend:** [your-frontend.vercel.app]([[https://your-frontend.vercel.app](https://my-fullstack-app-g5av.vercel.app/login)](https://my-fullstack-app-g5av.vercel.app/login))
+- **Backend API:** [your-backend.vercel.app]([[https://your-backend.vercel.app](https://my-fullstack-app-kappa.vercel.app/)](https://my-fullstack-app-kappa.vercel.app/))
 - **GitHub Repo:** [github.com/darpan-NITS/my-fullstack-app](https://github.com/darpan-NITS/my-fullstack-app)
 
 ---
